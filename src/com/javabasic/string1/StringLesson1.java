@@ -16,7 +16,7 @@ class StringLession1{
             System.out.println("- Thay thế Da Nang -->HaNoi ta được : "+ s.replace("DaNang","HaNoi"));
             /* Kiểm tra chuỗi có rỗng or không */
             System.out.println("- Khi kiểm tra chuỗi có rỗng hay không ta được giá trị : "+s.isEmpty());
-
+                /code như lồn
         }
     }
 
